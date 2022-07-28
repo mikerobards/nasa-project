@@ -1,3 +1,0 @@
-# nasa-project
-
-Node project
